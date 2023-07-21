@@ -1,5 +1,5 @@
 Feature: Add Customer
-
+  @Smoke
   Scenario Outline:Adding Customer
     Given User goto XYZ Bank Home page page
     When User click on the Bank Manager Login
